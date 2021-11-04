@@ -6,5 +6,6 @@
 2. React for clientside.
 3. Express JS framework for backend.
 4. Node JS
-##### To install all the dependencies, please type <strong>npm install</strong> in your console, after cloning the git.
+##### To install all the dependencies, please type -npm install in your console, after cloning the git.
+##### To run the applictaion on localhost, please type -npm start in your console.
 
